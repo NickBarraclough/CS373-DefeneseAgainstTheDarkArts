@@ -1,2 +1,2 @@
-# CS373-DefeneseAgainstTheDarkArts
+# CS373-DefenseAgainstTheDarkArts
 
