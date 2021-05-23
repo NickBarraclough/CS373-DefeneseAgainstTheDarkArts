@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 98 6f 7b f8 fb e1 ac-44 e2 8c 40 00 7c 75 8b</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Windows XP Home Edition.vmx</vmxPathName></VM><tools-install-info><installError>21004</installError><updateCounter>2</updateCounter></tools-install-info></Foundry>
